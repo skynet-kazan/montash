@@ -17,6 +17,7 @@
 - [Удаленка на Tenda n630](#удаленка-на-tenda-n630)
 - - [Открытие пингов](#открытие-пингов)
 - [Удаленка на Tenda n300](#удаленка-на-tenda-n300)
+- [Настройка роутера XPON ONT F670L](#настройка-роутера-xpon-ont-f670l)
 
 
 
@@ -81,3 +82,22 @@ IP – Firewall  \
 
 ### Удаленка на Tenda n300
 ![tenda_n300](../images/routers/tenda_n300.png)
+
+### Настройка роутера XPON ONT F670L
+перва наперво, нужно будет сменить лоиг и пароль для входа в лк и для пользователя user и для admin!
+заходим по 192.168.1.1
+логин и пароль: user
+логин и пароль для админа: admin
+
+следующите настройки делаютмя под user\
+Настройка название вай фай сети: Network - WLAN - SSID Settings\
+для сети 2.4 выбираете одну сеть Choose SSID: SSID 1-4, для сети 5 также одну из: SSID 5-8\
+![XPON_ONT_F670L](../images/routers/XPON_ONT_F670L_1.png)\
+Настройка пароля для вай фая: Network - WLAN - SSID Settings\
+выбираем Authentication Type: WPA2-PSK\
+для сети 2.4 выбираете одну сеть Choose SSID: SSID 1-4, для сети 5 также одну из: SSID 5-8\
+![XPON_ONT_F670L](../images/routers/XPON_ONT_F670L_2.png)\
+Для смены пароля входа в лк: Administration - User Management\
+![XPON_ONT_F670L](../images/routers/XPON_ONT_F670L_3.png)\
+Настройка удаленного доуступа и пингов (она должна быть по умолчанию, но проверьте)\
+![XPON_ONT_F670L](../images/routers/XPON_ONT_F670L_4.png)\

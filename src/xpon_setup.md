@@ -33,4 +33,5 @@ VLAN ID берем из логов в заявке (!) (Илья доделае�
 Для смены пароля входа в лк: Administration - User Management\
 ![XPON_ONT_F670L](../images/routers/XPON_ONT_F670L_3.png)\
 Настройка удаленного доступа  и пингов (она должна быть по умолчанию, но проверьте)\
+Securitu - Service control
 ![XPON_ONT_F670L](../images/routers/XPON_ONT_F670L_4.png)

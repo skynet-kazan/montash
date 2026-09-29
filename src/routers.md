@@ -19,6 +19,7 @@
 - [Удаленка на Tenda n300](#удаленка-на-tenda-n300)
 - [Настройка роутера XPON ONT F670L/F680/F899](#настройка-роутера-xpon-ont-f670l-f680-f899)
 - [Удаленка и пинги на ONU серии QT6000](#удаленка-и-пинги-на-onu-серии-qt6000)
+- [Настройка роутера V152](#настройка-роутера-v152)
 
 
 
@@ -105,3 +106,37 @@ IP – Firewall  \
 
 ### Удаленка и пинги на ONU серии QT6000
 ![ONU_ серии _QT6000](../images/onushki/ONU_QT6000.png)
+
+### Настройка роутера V152
+Подключаемся в LAN порт ONU с сетевой картой ноутбука или компа. На сетевой карте нужно прописать IP из подсети 192.168.100.11 как на скриншоте\
+![V152_1](../images/routers/V152_1.png)\
+Можно через Wifi подключиться к заводскому названию WirelessNet\
+пароль от Wifi:\
+``$25ST%3t".^:(`DQ(rx`03y>Gd62exT2oOl-<=i*(0$``\
+
+Заходим на онушку по IP 192.168.100.1
+
+Логин: telecomadmin\
+Пароль: admintelecom
+
+![V152_2](../images/routers/V152_2.png)\
+![V152_3](../images/routers/V152_3.png)\
+![V152_4](../images/routers/V152_4.png)
+
+Advanced – Layer 2/3 Port\
+![V152_5](../images/routers/V152_5.png)
+
+Security – DoS Configuration\
+![V152_6](../images/routers/V152_6.png)
+
+WLAN – 2.4G Basic Network\
+![V152_7](../images/routers/V152_7.png)\
+![V152_8](../images/routers/V152_8.png)
+
+WLAN – 5G Basic Network\
+![V152_9](../images/routers/V152_9.png)\
+![V152_10](../images/routers/V152_10.png)
+
+Настройка WAN\
+![V152_11](../images/routers/V152_9.png)\
+![V152_12](../images/routers/V152_10.png)

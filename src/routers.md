@@ -138,5 +138,14 @@ WLAN – 5G Basic Network\
 ![V152_10](../images/routers/V152_10.png)
 
 Настройка WAN\
-![V152_11](../images/routers/V152_9.png)\
-![V152_12](../images/routers/V152_10.png)
+![V152_11](../images/routers/V152_11.png)\
+![V152_12](../images/routers/V152_12.png)
+
+Настройка учетной записи для доступа клиентов на Ону с возможностью замены логина и пароля от WiFi в будущем:\
+System management - Account management
+
+![V152_13](../images/routers/V152_13.png)
+
+В поле для пароля задаем номер договора клиента + skynet\
+пример: 48355skynet\
+То есть будут логопасы для клиента root/48355skynet

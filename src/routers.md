@@ -112,7 +112,7 @@ IP – Firewall  \
 ![V152_1](../images/routers/V152_1.png)\
 Можно через Wifi подключиться к заводскому названию WirelessNet\
 пароль от Wifi:\
-``$25ST%3t".^:(`DQ(rx`03y>Gd62exT2oOl-<=i*(0$``\
+``$25ST%3t".^:(`DQ(rx`03y>Gd62exT2oOl-<=i*(0$``
 
 Заходим на онушку по IP 192.168.100.1
 
